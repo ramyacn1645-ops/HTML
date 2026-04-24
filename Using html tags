@@ -7,4 +7,6 @@
         <p> Hello world! </p>
         <br /> 
         <!-- br tag is used to make display lines/paragraph one after the other -->
-
+<--! for commenting '<--!.......-->' this is used-->
+        <b> Bold </b> 
+<!--
