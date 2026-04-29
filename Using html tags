@@ -10,5 +10,10 @@
 <--! for commenting '<--!.......-->' this is used-->
         <b> Bold </b> 
 <!-- b tag is used to bold a letter or sentence -->
+        <u> Underline </u>
+<!-- u tag is used to underline word or sentence -->
+        <i> italic </i>
+<!-- i tag is used to make words italic -->
+
     </body>
 </html>
